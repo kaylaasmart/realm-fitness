@@ -17,6 +17,7 @@ function Memberships() {
       options: [
         "• 12-Month Commitment",
         "• Monthly Payments"
+        "• $20 One-time Fob Fee"
       ]
     },
     {
@@ -24,7 +25,7 @@ function Memberships() {
       price: "$105",
       options: [
         "• No Commitment",
-        "• $15 One-time Fob Fee"
+        "• $20 One-time Fob Fee"
       ]
     },
     {
@@ -32,6 +33,7 @@ function Memberships() {
       price: "$70/month",
       options: [
         "• Month-to-Month"
+         "• $20 One-time Fob Fee"
       ]
     },
     {
@@ -39,6 +41,7 @@ function Memberships() {
       price: "$77/month 12 Month Contract","8 Months PIF for $575"
       options: [
         "• 12-Month Payment Plan or One-time Payment for 8 months"
+        "• $20 One-time Fob Fee"
       ]
     },
     {
