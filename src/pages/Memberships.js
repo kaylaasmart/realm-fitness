@@ -36,9 +36,9 @@ function Memberships() {
     },
     {
       title: "Student Membership",
-      price: "$77/month",
+      price: "$77/month 12 Month Contract","8 Months PIF for $575"
       options: [
-        "• 6-Month Commitment Required"
+        "• 12-Month Payment Plan or One-time Payment for 8 months"
       ]
     },
     {
