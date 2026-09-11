@@ -16,7 +16,7 @@ function Memberships() {
       price: "$85/month",
       options: [
         "• 12-Month Commitment",
-        "• Monthly Payments"
+        "• Monthly Payments",
         "• $20 One-time Fob Fee"
       ]
     },
@@ -32,7 +32,7 @@ function Memberships() {
       title: "Senior Memberships",
       price: "$70/month",
       options: [
-        "• Month-to-Month"
+        "• Month-to-Month",
          "• $20 One-time Fob Fee"
       ]
     },
@@ -40,7 +40,7 @@ function Memberships() {
       title: "Student Membership",
       price: "$77/month 12 Month Contract","8 Months PIF for $575"
       options: [
-        "• 12-Month Payment Plan or One-time Payment for 8 months"
+        "• 12-Month Payment Plan or One-time Payment for 8 months",
         "• $20 One-time Fob Fee"
       ]
     },
