@@ -38,9 +38,9 @@ function Memberships() {
     },
     {
       title: "Student Membership",
-      price: "$77/month 12 Month Contract, 8 Months PIF $575",
+      price: "12 Month Contract or 8 Months PIF",
       options: [
-        "• 12-Month Payment Plan or One-time Payment for 8 months",
+        "• 12-Month Payment Plan $77/Month or One-time Payment of $575 for 8 months",
         "• $20 One-time Fob Fee"
       ]
     },
@@ -95,7 +95,7 @@ function Memberships() {
         </div>
         <div className="mt-10 col-span-full">
           <div className="bg-[#1a1a1a] border border-[#2e2e2e] rounded-2xl p-8 text-center hover:border-[#C6962C] hover:scale-[1.02] transition duration-300 max-w-4xl mx-auto">
-            <h2 className="text-3xl font-bold text-[#C6962C] mb-4">Corporate Memberships</h2>
+            <h2 className="text-3xl font-bold text-[#C6962C] mb-4">Corporate and Commuter Memberships</h2>
             <p className="text-lg text-gray-300">Please call for more details</p>
           </div>
         </div>
