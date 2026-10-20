@@ -69,7 +69,7 @@ function Home() {
         price: "$105",
         options: [
           "• No Commitment",
-          "• $15 One-time Fob Fee"
+          "• $20 One-time Fob Fee"
         ]
       },
       {
@@ -80,10 +80,11 @@ function Home() {
         ]
       },
       {
-        title: "Student Membership",
-        price: "$77/month",
-        options: [
-          "• 6-Month Commitment Required"
+     title: "Student Membership",
+      price: "12 Month Contract or 8 Months PIF",
+      options: [
+        "• 12-Month Payment Plan $77/Month or One-time Payment of $575 for 8 months",
+        "• $20 One-time Fob Fee"
         ]
       },
       {
