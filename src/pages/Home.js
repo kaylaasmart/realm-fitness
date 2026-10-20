@@ -91,8 +91,8 @@ function Home() {
         title: "10-Day Pass",
         price: "$150",
         options: [
-          "• 5-Visit Punch Pass for $90 
-            "• Never Expires"
+         "• 5-visit for $90",
+          "• Never Expires"
         ]
       }
     ];
