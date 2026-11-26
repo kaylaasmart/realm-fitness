@@ -17,6 +17,8 @@ function Layout({ children }) {
                         <Link to="/about" className="cursor-pointer hover:text-[#C6962C] p-2">About Us</Link>
                         <Link to="/contact" className="cursor-pointer hover:text-[#C6962C] p-2">Contact Us</Link>
                         <Link to="/memberships" className="cursor-pointer hover:text-[#C6962C] p-2">Memberships</Link>
+                        <Link to="/smoothie-bar" className="cursor-pointer hover:text-[#C6962C] p-2">Smoothie Bar</Link>
+
                         <a
                             href="https://realmliftingclubkelowna.com"
                             target="_blank"
@@ -34,6 +36,7 @@ function Layout({ children }) {
                                 <Link to="/about" className="cursor-pointer hover:text-[#C6962C] p-2">About Us</Link>
                                 <Link to="/contact" className="cursor-pointer hover:text-[#C6962C] p-2">Contact Us</Link>
                                 <Link to="/memberships" className="cursor-pointer hover:text-[#C6962C] p-2">Memberships</Link>
+                                <Link to="/smoothie-bar" className="cursor-pointer hover:text-[#C6962C] p-2">Smoothie Bar</Link>
                                 <a
                                     href="https://realmliftingclubkelowna.com"
                                     target="_blank"
