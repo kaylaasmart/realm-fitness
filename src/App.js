@@ -11,6 +11,7 @@ import Privacy from './pages/Privacy';
 import Accessibility from './pages/Accessibility';
 import SignUp from "./pages/SignUp";
 import ChatbotWidget from "./components/ChatbotWidget";
+import SmoothieBar from "./pages/SmoothieBar";
 
 function App() {
   return (
@@ -21,7 +22,8 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/memberships" element={<Memberships/>} />
+          <Route path="/memberships" element={<Memberships/>} />  
+          <Route path="/smoothie-bar" element={<SmoothieBar />} />
           <Route path="/menu" element={<Menu />} />
           <Route path="/terms" element={<Terms />} />
           <Route path="/privacy" element={<Privacy />} />
