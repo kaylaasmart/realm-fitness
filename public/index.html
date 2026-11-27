@@ -38,5 +38,17 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    
+  <script>
+    window.addEventListener("load", function () {
+        window.agentId = 'f71e81b2-0ff8-4ece-a6a2-f0d4b7ae01d7';
+        window.baseurl = 'https://abcfitness.help247.ai/';
+        window.CHATBOT_SVG = '<svg viewBox="-9 -9 41 41" style="background-color: rgb(0, 0, 0); width: 55px; height: 55px; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px; fill: rgb(255, 255, 255);"><path d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2M9 11H7V9h2zm4 0h-2V9h2zm4 0h-2V9h2z"></path></svg>';
+        const chatbotEmbedScriptWithOldImageByDefault = document.createElement("script");
+        chatbotEmbedScriptWithOldImageByDefault.src = window.baseurl + "js/chatbot-embed.js";
+        document.head.appendChild(chatbotEmbedScriptWithOldImageByDefault);
+    });
+  </script>
+  
   </body>
 </html>
